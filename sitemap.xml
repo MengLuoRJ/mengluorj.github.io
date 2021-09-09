@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://wp.aiurcovenant.net/2021/09/09/first-post-on-site/</loc>
+    
+    <lastmod>2021-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wp.aiurcovenant.net/categories/index.html</loc>
+    
+    <lastmod>2021-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wp.aiurcovenant.net/tags/index.html</loc>
+    
+    <lastmod>2021-09-09</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://wp.aiurcovenant.net/</loc>
+    <lastmod>2021-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://wp.aiurcovenant.net/tags/%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2021-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+</urlset>
