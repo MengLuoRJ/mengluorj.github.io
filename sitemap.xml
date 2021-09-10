@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://mengl.aiur.tech/2021/09/first-post-on-site/</loc>
+    <loc>https://mengl.aiur.tech/about/index.html</loc>
     
     <lastmod>2021-09-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://mengl.aiur.tech/about/index.html</loc>
+    <loc>https://mengl.aiur.tech/categories/index.html</loc>
     
     <lastmod>2021-09-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://mengl.aiur.tech/categories/index.html</loc>
+    <loc>https://mengl.aiur.tech/tags/index.html</loc>
     
     <lastmod>2021-09-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://mengl.aiur.tech/tags/index.html</loc>
+    <loc>https://mengl.aiur.tech/2021/09/first-post-on-site/</loc>
     
     <lastmod>2021-09-10</lastmod>
     
@@ -31,7 +31,7 @@
   
 
   <url>
-    <loc>http://mengl.aiur.tech/</loc>
+    <loc>https://mengl.aiur.tech/</loc>
     <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -39,12 +39,33 @@
 
   
   <url>
-    <loc>http://mengl.aiur.tech/tags/%E6%96%B0%E9%97%BB/</loc>
+    <loc>https://mengl.aiur.tech/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mengl.aiur.tech/tags/%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://mengl.aiur.tech/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mengl.aiur.tech/categories/%E6%9C%AC%E7%AB%99%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2021-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
