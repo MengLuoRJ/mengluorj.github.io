@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>本站的第一篇文章</title>
+    <title>本站第一篇文章 - 迁移与建立</title>
     <url>/2021/09/first-post-on-site/</url>
     <content><![CDATA[<p>时间来到 2021 年，在对 AiurCovenant 所使用的服务器进行重置后。</p>
 <p>开始重新整理目前所有两个网站的各项内容，决定将本站「mengL&#39;s Blog」迁移至当前新的较短地址，并重新基于 Hexo 建立我的博客。</p>
 <span id="more"></span>
 
-<p>未完待续</p>
-]]></content>
+<h2 id="迁移与建站"><a href="#迁移与建站" class="headerlink" title="迁移与建站"></a>迁移与建站</h2><h2 id="博客站点建立"><a href="#博客站点建立" class="headerlink" title="博客站点建立"></a>博客站点建立</h2><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2>]]></content>
       <categories>
         <category>博客</category>
         <category>本站新闻</category>
@@ -19,7 +18,7 @@
       </tags>
   </entry>
   <entry>
-    <title>银编中为单张地图使用多种纹理</title>
+    <title>银编中为单张地图使用多个纹理集</title>
     <url>/2021/09/how-to-use-multiple-textures-in-ge/</url>
     <content><![CDATA[<p><img data-src="/post-images/how-to-use-multiple-textures-in-ge/image-5.png" alt="单张地图中使用多种纹理"></p>
 <p>许多作者在进行地图创作时，在进行地形方面的绘制过程中，会根据不同的需求使用不同的纹理绘制地面。</p>
