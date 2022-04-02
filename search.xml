@@ -30,7 +30,7 @@
 <p>使用 <code>文件(F) -&gt; 另存为(A)…</code> 进行，选择保存类型“《星际争霸II》组件文件夹（.SC2Components）”保存。</p>
 <p><img data-src="/post-images/how-to-use-multiple-textures-in-ge/image.png" alt="《星际争霸II》组件文件夹（.SC2Components)保存"></p>
 <h3 id="Step2-修改-t3Terrain-xml-文件"><a href="#Step2-修改-t3Terrain-xml-文件" class="headerlink" title="Step2. 修改 t3Terrain.xml 文件"></a><strong>Step2. 修改 t3Terrain.xml 文件</strong></h3><p>然后，我们通过直接修改地图地形设置文件 “<code>t3Terrain.xml</code>” 来实现添加额外的纹理集和纹理。</p>
-<p>使用任何代码/文件编辑器在刚才保存的组件文件夹目录中，打开文件：<code>/t3Terrain.xml</code>，</p>
+<p>使用任何代码&#x2F;文件编辑器在刚才保存的组件文件夹目录中，打开文件：<code>/t3Terrain.xml</code>，</p>
 <p>找到代码行： <code>&lt;textureSetList num=&quot;18&quot;&gt;</code>，</p>
 <p>然后在下方代码： <code>&lt;textureSet i=&quot;1&quot; name=&quot;&quot;/&gt;</code> 中的 <code>name</code> 键值中添加要添加的额外纹理集 ID。</p>
 <p><img data-src="/post-images/how-to-use-multiple-textures-in-ge/image-1.png" alt="t3Terrain.xml 文件 textureSetList 段代码"> </p>
@@ -47,7 +47,7 @@
 <p>然后，使用 <code>文件(F) -&gt; 另保存(S)…</code> 进行，选择保存类型“《星际争霸II》地图文件（.SC2Map）”保存。</p>
 <h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>在默认的地图设定中，地图最大独立纹理数量被设置为 16 个，因此用户无法添加更多的纹理集。</p>
 <p>此外，地图纹理会被在游戏加载时直接进行预加载并常驻内存，因此过多的地图纹理集可能导致玩家加载时间增长或游戏时内存需求提高。</p>
-<p>综上，在没有必要需求的情况下，不建议增加/使用过多数量的独立纹理。</p>
+<p>综上，在没有必要需求的情况下，不建议增加&#x2F;使用过多数量的独立纹理。</p>
 <h2 id="补充内容"><a href="#补充内容" class="headerlink" title="补充内容"></a>补充内容</h2><p>在 <code>地图(A) -&gt; 地图属性 -&gt; 纹理集</code> 中可以看到，作者可以将多个可用的纹理集添加至地图纹理集中，但在添加至多 2 个纹理集后会收到警告：“无法添加纹理集，这会使当前地图最大独立纹理数量超过数量(16)”。</p>
 <p>在 <code>t3Terrain.xml</code> 文件中可以看到有两个区块：</p>
 <p>代码行：<code>&lt;textureSetList num=&quot;8&quot;&gt;</code></p>
