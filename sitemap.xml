@@ -4,16 +4,16 @@
   <url>
     <loc>https://mengl.aiur.tech/tags/index.html</loc>
     
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://mengl.aiur.tech/2021/03/scge-tutorial-ep1/</loc>
+    <loc>https://mengl.aiur.tech/2022/03/scge-tutorial-ep1/</loc>
     
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://mengl.aiur.tech/about/index.html</loc>
     
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,6 +30,15 @@
   
   <url>
     <loc>https://mengl.aiur.tech/categories/index.html</loc>
+    
+    <lastmod>2022-06-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mengl.aiur.tech/2021/09/personal-essay/</loc>
     
     <lastmod>2022-04-02</lastmod>
     
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://mengl.aiur.tech/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,42 +75,49 @@
   
   <url>
     <loc>https://mengl.aiur.tech/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mengl.aiur.tech/tags/%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mengl.aiur.tech/tags/%E9%93%B6%E6%B2%B3%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mengl.aiur.tech/tags/GalaxyEditor/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mengl.aiur.tech/tags/%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8II/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mengl.aiur.tech/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mengl.aiur.tech/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -110,42 +126,49 @@
   
   <url>
     <loc>https://mengl.aiur.tech/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mengl.aiur.tech/categories/%E9%93%B6%E6%B2%B3%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mengl.aiur.tech/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mengl.aiur.tech/categories/%E6%9C%AC%E7%AB%99%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mengl.aiur.tech/categories/%E9%93%B6%E6%B2%B3%E7%BC%96%E8%BE%91%E5%99%A8/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mengl.aiur.tech/categories/%E9%93%B6%E6%B2%B3%E7%BC%96%E8%BE%91%E5%99%A8/%E5%9C%B0%E5%BD%A2/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mengl.aiur.tech/categories/%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8II/</loc>
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
