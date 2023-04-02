@@ -3,7 +3,6 @@ var titleTime;
 document.addEventListener('visibilitychange', function () {
     if (document.hidden) {
         // $('[rel="icon"]').attr('href', "/img/TEP.ico");
-        //动态更改图标
         document.title = '|•\'-\'•) Waiting for Your Back - ' + OriginTitile;
         clearTimeout(titleTime);
     }
